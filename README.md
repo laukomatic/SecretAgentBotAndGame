@@ -32,3 +32,8 @@ Than:
   9. The further Agent comes the better, if he comes till move 24 and survives it he WON. 
 If I was unclear, please say it I'll fix the problem. 
 As you can see it's highly strategical game, based on probabiliies, that is why I think it could be automated.
+
+Sorry, for not meantioning it clearly enough. 
+**Secret Agent wins if he/she manages to escape police for 24 rounds, or till they are unable to move.
+The police wins if they come on the same place as Agent is, at that moment. Also, agent is not allowed to move to the place that is occupied by the police.**
+In, short the goal of the game is to stay hidden as an Agent, while the goal of police is to find you.
